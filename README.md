@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
 <h3 align="center">A passionate frontend developer and Web3 freelancer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zain-10&label=Profile%20views&color=0e75b6&style=flat" alt="zain-10" /> </p>
+<!-- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zain-10&label=Profile%20views&color=0e75b6&style=flat" alt="zain-10" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/@zAiN_1045" target="blank"><img src="https://img.shields.io/twitter/follow/@zAiN_1045?logo=twitter&style=for-the-badge" alt="@zain_1045" /></a> </p>
 
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@zain_1045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zain_1045" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahamed zain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahamed zain" height="30" width="40" /></a>
+<a href="https://twitter.com/@zAiN_1045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zain_1045" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Ahamed Zain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahamed zain" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,7 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zain-10&show_icons=true&locale=en&layout=compact" alt="zain-10" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zain-10&show_icons=true&locale=en" alt="zain-10" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zain-10&show_icons=true&locale=en" alt="zain-10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zain-10&" alt="zain-10" /></p>
-
