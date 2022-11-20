@@ -23,6 +23,6 @@
  -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zain-10&show_icons=true&locale=en&layout=compact" alt="zain-10" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=zain-10&show_icons=true&locale=en" alt="zain-10" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zain-10&show_icons=true&locale=en" alt="zain-10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zain-10&" alt="zain-10" /></p>
