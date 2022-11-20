@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zain-10&label=Profile%20views&color=0e75b6&style=flat" alt="zain-10" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@zain_1045" target="blank"><img src="https://img.shields.io/twitter/follow/@zain_1045?logo=twitter&style=for-the-badge" alt="@zain_1045" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@zAiN_1045" target="blank"><img src="https://img.shields.io/twitter/follow/@zAiN_1045?logo=twitter&style=for-the-badge" alt="@zain_1045" /></a> </p>
 
 - 🔭 I’m currently working as **Frontend and Web3 freelancer**
 
@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zain-10&show_icons=true&locale=en&layout=compact" alt="zain-10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zain-10&show_icons=true&locale=en" alt="zain-10" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zain-10&show_icons=true&locale=en" alt="zain-10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zain-10&" alt="zain-10" /></p>
 
