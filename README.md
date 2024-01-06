@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
-<h3 align="center">A passionate frontend developer and Web3 freelancer from India</h3>
+<h3 align="center">A passionate Full-Stack developer and Web3 freelancer from India</h3>
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zain-10&label=Profile%20views&color=0e75b6&style=flat" alt="zain-10" /> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/@zAiN_1045" target="blank"><img src="https://img.shields.io/twitter/follow/@zAiN_1045?logo=twitter&style=for-the-badge" alt="@zain_1045" /></a> </p> -->
 
-- 🔭 I’m currently working as **Frontend and Web3 freelancer**
+- 🔭 I’m currently working as **Fullstack and Web3 freelancer**
 
 - 🌱 I’m currently learning **Web3**
 
